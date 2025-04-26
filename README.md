@@ -2,8 +2,8 @@
 ## Metasploit
 Metasploit for reconnaissance in pentesting
 ```
-Register Number: 212222040061
-Name: JEEVANSURYA K
+Register Number: 212222040045
+Name: GOKULNATH H
 ```
 
 ## AIM:
